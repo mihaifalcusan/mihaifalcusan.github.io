@@ -1,0 +1,13 @@
+---
+title: "Personal portofolio"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Hi, my name is *Mihai Fălcușan* and I'm interested in Data Analytics and Data Science. 
+Here's a quick showcase of my work:
+
+- [Project 1: Hypernets](https://mihaifalcusan.github.io/test.ipynb)
+- [Project 2: Data Cleaning for financial Data](test.com)
